@@ -2,10 +2,10 @@
 
 ## Overview
 This project automates the process of drafting email responses by leveraging historical email data and FAQs. Using Python and the RelevanceAI platform, the application reads unread emails, generates responses based on past interactions, and drafts them in Gmail.
-<br>
-System Architecture
+
+## System Architecture
 ![./System Architecture.png](https://github.com/zubairatha/AI-Email-Automation/blob/main/System%20Architecture.png)
-<br>
+
 ## Prerequisites
 1. Python 3.10.0
 2. A Gmail account
