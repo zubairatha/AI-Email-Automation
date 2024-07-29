@@ -124,3 +124,29 @@ Update `draft_replies.py` with your email address and the API key copied from Re
     python draft_replies.py
     ```
 3. Your application will now check for unread emails from the past day using IMAP and generate replies using the RelevanceAI tool, drafting them in Gmail via SMTP.
+
+## Examples
+### 1. FAQs Generated
+1. FAQ Generated for Analytics Resume Link
+![image](https://github.com/user-attachments/assets/c7cf4042-d648-4929-9a63-691eaa99b783)
+
+2. FAQ Generated for Primary Contact Details
+![image](https://github.com/user-attachments/assets/51172728-0fef-44f8-8be2-ab7b0c8fa2f1)
+
+3. FAQ Generated for Alternate Contact Details
+![image](https://github.com/user-attachments/assets/79fde3b2-ac6d-4c4f-9511-1d187ec9ab3d)
+
+4. FAQ Generated for User's Email Signature
+![image](https://github.com/user-attachments/assets/fbf9e319-cd2c-4b31-af5f-c088d3f967b6)
+
+### 2. Drafts Generated
+1. Email Draft Generated for Project Consultancy
+![image](https://github.com/user-attachments/assets/1451d504-33b2-4c90-9686-5e9273452942)
+
+2. Email Draft Generated for Resume Request
+![image](https://github.com/user-attachments/assets/79698989-2662-4973-8c55-ae2edbb5780f)
+
+3. Email Draft Generated for Prospective Photography Opportunity
+![image](https://github.com/user-attachments/assets/e3c552a0-d733-4992-8804-65d774b37b26)
+
+
